@@ -1,4 +1,4 @@
-# flutter_application_1
+# Anime Mirai App
 
 A new Flutter project.
 
